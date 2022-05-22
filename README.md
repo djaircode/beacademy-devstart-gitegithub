@@ -9,8 +9,6 @@ Projeto criado para instruir os alunos do programa devstart, quanto a utlizaçã
 - [@djaircode](https://www.github.com/djaircode)
 
 
-
-
 ## FAQ
 
 #### Question 1
@@ -21,3 +19,5 @@ Answer 1
 
 Answer 2
 
+
+A INSTALÇÃO NAO EXISTE
